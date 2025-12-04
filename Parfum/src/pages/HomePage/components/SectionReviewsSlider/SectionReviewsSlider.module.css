@@ -1,0 +1,12 @@
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
+.h2{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.h2 em{
+    margin-right: 7px;
+}

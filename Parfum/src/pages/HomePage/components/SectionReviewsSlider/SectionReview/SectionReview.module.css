@@ -1,0 +1,32 @@
+.comment{
+    padding: 40px;
+    background-color: white;
+    border-radius: 32px;
+    max-width: 500px;
+}
+.list_star {
+    display: flex;
+    gap: 5px;
+}
+.comment_avator{
+    display: flex;
+    gap: 15px;
+}
+.p_comment_descr{
+    margin: 15px 0;
+}
+.img_comment_avator {
+    width: 58px;
+    height: 58px;
+    object-fit: cover;
+    border-radius: 35px;
+}
+.descrp_name_avator {
+font-weight: 700;
+letter-spacing: 0.1em;
+}
+.descrp_country_avator{
+font-weight: 700;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+}

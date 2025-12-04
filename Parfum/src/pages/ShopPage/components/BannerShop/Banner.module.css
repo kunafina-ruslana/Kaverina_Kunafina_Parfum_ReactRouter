@@ -1,0 +1,32 @@
+.banner {
+    height: 50vh;
+    width: 99.2vw;
+    background-image: url(/src/public/img/Post.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 25px 0;
+}
+.banner_descr{
+    height: 50%;
+    margin-top: 100px;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center;
+}
+h1 {
+    color: white;
+    max-width: 668px;
+    font-weight: lighter;
+    font-size: 80px;
+    text-align: center;
+}
+
+.btn_banner {
+    background-color: white;
+    border-radius: 36px;
+    padding: 12px 25px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}

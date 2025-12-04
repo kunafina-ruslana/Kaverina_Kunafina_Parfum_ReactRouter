@@ -1,0 +1,13 @@
+.page_post{
+    text-align: center;
+    font-size: 80px;
+    margin: 80px;
+}
+
+.posts{
+    display: flex;
+    gap: 32px;
+    flex-wrap: wrap;
+    width: 85%;
+    margin: 0 auto;
+}

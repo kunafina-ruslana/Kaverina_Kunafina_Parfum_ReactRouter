@@ -1,0 +1,41 @@
+.post {
+    display: block;
+    max-width: 432px;
+}
+
+.descrp_img_post {
+    height: 384px;
+    width: 406px;
+    border-radius: 16px;
+    object-fit: cover;
+}
+
+.type_news {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    border: 2px solid #DD6249;
+    padding: 8px 12px;
+    width: 90px;
+    border-radius: 20px;
+
+}
+
+.ellipse {
+    width: 10px;
+    height: 10px;
+    background-color: #DD6249;
+    border-radius: 100px;
+}
+
+.descrp_name_post {
+    font-size: 28px;
+    padding: 16px 0px;
+}
+
+.descrp_date_post {
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}

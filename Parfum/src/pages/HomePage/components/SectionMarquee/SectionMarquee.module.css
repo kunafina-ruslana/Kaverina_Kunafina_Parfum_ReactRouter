@@ -1,0 +1,16 @@
+marquee{
+    padding: 15px 0;
+    background-color: #E8A94C;
+}
+.marquee{
+    display: flex;
+    gap: 40px;
+}
+.marquee_element{
+      display: flex;
+    gap: 40px;
+}
+.marquee_text{
+font-weight: 300;
+font-size: 40px;
+}

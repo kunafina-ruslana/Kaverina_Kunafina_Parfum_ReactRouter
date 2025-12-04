@@ -1,0 +1,9 @@
+.h2 {
+    margin-bottom: 40px;
+}
+
+.list_card {
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+}

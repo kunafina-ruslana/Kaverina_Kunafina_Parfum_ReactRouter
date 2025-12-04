@@ -1,0 +1,62 @@
+.stat_title {
+    text-align: center;
+    font-size: 40px;
+    margin: 80px;
+}
+
+.stat_title em {
+    margin-right: 3px;
+}
+
+.stat_cards {
+    display: flex;
+    justify-content: center;
+    gap: 112px;
+}
+
+.procent {
+    font-weight: 300;
+    font-size: 80px;
+    text-align: center;
+}
+
+.procent_title {
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+}
+
+.procent_descrp {
+    width: 352px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}
+
+.banner_passion {
+    height: 100vh;
+    width: 99.2vw;
+    display: flex;
+    align-items: center;
+    background-image: url('/src/public/img/Image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 25px 0;
+
+}
+
+.banner_passion_title {
+    margin: 0 auto;
+    width: 768px;
+    font-size: 80px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.descrp_img_post {
+    height: 100vh;
+    width: 99.2vw;
+    object-fit: cover;
+}

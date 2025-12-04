@@ -1,0 +1,16 @@
+.sect_logo p {
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+
+.list_logo {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+.list_logo img{
+    height: 38px;
+}

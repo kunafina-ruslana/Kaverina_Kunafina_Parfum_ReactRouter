@@ -1,0 +1,45 @@
+.btn{
+    background-color: #ABB249;
+    padding: 12px 120px;
+    border-radius: 32px;
+    font-weight: bold;
+}
+.descrp_name_product {
+font-weight: 300;
+letter-spacing: 0.1em;
+}
+.descrp_name_company{
+font-weight: 700;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+}
+.descrp_price_product{
+    margin: 15px 0;
+}
+.descrp_img_product{
+    border-radius: 16px;
+    position: relative;
+
+}
+.descrp{
+    width: 316px;
+    text-align: center;
+}
+.sale{
+    background-color: #E8A94C;
+    padding: 8px 16px;
+    border-radius: 16px;
+    width: 90px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    position: absolute;
+    z-index: 100;
+    margin: 12px;
+}
+.card{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
